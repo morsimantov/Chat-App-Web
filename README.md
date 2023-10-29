@@ -17,7 +17,7 @@ You can find the modules installed in package.json -> dependencies. When running
 
 You can login by entering a name and password (Username: Mor Siman Tov, password: 1234567u):
 
-![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/beced76f-2301-4d34-be4b-e762ecde7738)
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/ee853da3-64d7-4c87-a4d1-fb0eb421c32f)
 
 Than you'll be represented by the chats screen:
 
@@ -27,7 +27,7 @@ The three buttons on the bottom left of the chat window appear after you click t
 
 You can also send an audio recording:
 
-
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/2a8b3e70-31b9-4879-9d25-5ed311546570)
 
 Or a video:
 
