@@ -23,13 +23,13 @@ Than you'll be represented by the chats screen:
 
 ![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/841e7c3a-e226-4858-bb8d-2de0b51a4025)
 
-The three buttons on the bottom left of the chat window appear after you click the clip icon. Now you can send all sorts of media, like a photo.
+If you click the clip icon on the bottom left of the chat window, 3 different options will appear. You can send all sorts of media, like a photo.
 
 You can also send an audio recording:
 
 ![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/2a8b3e70-31b9-4879-9d25-5ed311546570)
 
-Or a video:
+Or upload a video:
 
 ![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/2540b43c-ea55-4c25-bb9c-a7c15f626c97)
 
