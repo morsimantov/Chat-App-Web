@@ -1,4 +1,4 @@
-# Web Chat:
+# Web Chat
 
 1. [About](#About)
 2. [Dependencies](#Dependencies)
