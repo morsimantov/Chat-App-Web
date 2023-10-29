@@ -1,8 +1,4 @@
-# Chat App - Web
-
-
-# Advanced Programming 2 Web Client: 
-
+# Web Chat:
 
 1. [About](#About)
 2. [Dependencies](#Dependencies)
@@ -19,7 +15,7 @@ The project has a Registration screen, a Login screen and a Chat screen.\
 
 You can find the modules installed in package.json -> dependencies. When running ```npm install``` installations are made according to this file.
 
-you can login by entering a name and password (Username: Mor Siman Tov, password: 1234567u):
+You can login by entering a name and password (Username: Mor Siman Tov, password: 1234567u):
 
 ![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/beced76f-2301-4d34-be4b-e762ecde7738)
 
