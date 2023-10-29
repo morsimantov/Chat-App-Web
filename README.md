@@ -21,17 +21,18 @@ You can login by entering a name and password (Username: Mor Siman Tov, password
 
 Than you'll be represented by the chats screen:
 
-![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/028589c4-8779-43d8-85d9-eccd0d521a54)
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/841e7c3a-e226-4858-bb8d-2de0b51a4025)
 
 The three buttons on the bottom left of the chat window appear after you click the clip icon. Now you can send all sorts of media, like a photo.
 
 You can also send an audio recording:
 
-![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/08197e70-9fc0-4917-a59d-5ce188e0f431)
+
 
 Or a video:
 
-![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/1dce3583-afef-4742-91e3-950e39f510c8)
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/2540b43c-ea55-4c25-bb9c-a7c15f626c97)
+
 
 
 ## Dependencies
