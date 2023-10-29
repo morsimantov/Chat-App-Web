@@ -9,11 +9,15 @@
 3. [Instructions](#Instructions)
 
 ## About
+
 Welcome to our chat app! 
+
 We created a Web app for chatting Using nodeJS, JavaScript, React, HTML and CSS.\
 The project has a Registration screen, a Login screen and a Chat screen.\
+
 **The project uses react-router and react-bootstrap packages.**
-You can find the modules installed in package.json -> dependencies. When running ```npm install``` installations are made according to this file
+
+You can find the modules installed in package.json -> dependencies. When running ```npm install``` installations are made according to this file.
 
 you can login by entering a name and password (Username: Mor Siman Tov, password: 1234567u):
 
@@ -23,7 +27,7 @@ Than you'll be represented by the chats screen:
 
 ![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/028589c4-8779-43d8-85d9-eccd0d521a54)
 
-The three buttons on the bottom right of the chat window appear after you click the clip icon. Now you can send all sorts of media, like a photo.
+The three buttons on the bottom left of the chat window appear after you click the clip icon. Now you can send all sorts of media, like a photo.
 
 You can also send an audio recording:
 
@@ -35,6 +39,7 @@ Or a video:
 
 
 ## Dependencies
+
 * Download Node.js : https://nodejs.org/en/ which includes NPM (a package manager for NODE. Js) and will be installed on your computer when you install Node.js. 
 * Clone the repository
 * Install dependencies using:
@@ -46,6 +51,7 @@ Or a video:
 
 
 ## Instructions
+
 * In order to log in with the user we created please enter the following:\
 **Username: Mor Siman Tov**\
 **Password: 1234567u**
