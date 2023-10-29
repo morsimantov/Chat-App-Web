@@ -9,7 +9,8 @@
 3. [Instructions](#Instructions)
 
 ## About
-We created a Web client Using HTML, JavaScript, React, CSS.\
+Welcome to our chat app! 
+We created a Web app for chatting Using nodeJS, JavaScript, React, HTML and CSS.\
 The project has a Registration screen, a Login screen and a Chat screen.\
 **The project uses react-router and react-bootstrap packages.**
 You can find the modules installed in package.json -> dependencies. When running ```npm install``` installations are made according to this file
