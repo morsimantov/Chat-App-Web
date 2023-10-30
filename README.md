@@ -1,18 +1,42 @@
-# Advanced Programming 2 Web Client: 
-
+# Web Chat
 
 1. [About](#About)
 2. [Dependencies](#Dependencies)
 3. [Instructions](#Instructions)
 
 ## About
-We created a Web client Using HTML, JavaScript, React, CSS.\
+
+Welcome to our chat app! 
+
+We created a Web app for chatting Using nodeJS, JavaScript, React, HTML and CSS.\
 The project has a Registration screen, a Login screen and a Chat screen.\
+
 **The project uses react-router and react-bootstrap packages.**
-You can find the modules installed in package.json -> dependencies. When running ```npm install``` installations are made according to this file
+
+You can find the modules installed in package.json -> dependencies. When running ```npm install``` installations are made according to this file.
+
+You can login by entering a name and password (Username: Mor Siman Tov, password: 1234567u):
+
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/ee853da3-64d7-4c87-a4d1-fb0eb421c32f)
+
+Than you'll be represented by the chats screen:
+
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/841e7c3a-e226-4858-bb8d-2de0b51a4025)
+
+If you click the clip icon on the bottom left of the chat window, 3 different options will appear. You can send all sorts of media, like a photo.
+
+You can also send an audio recording:
+
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/2a8b3e70-31b9-4879-9d25-5ed311546570)
+
+Or upload a video:
+
+![image](https://github.com/morsimantov/Chat-App-Web/assets/92635551/2540b43c-ea55-4c25-bb9c-a7c15f626c97)
+
 
 
 ## Dependencies
+
 * Download Node.js : https://nodejs.org/en/ which includes NPM (a package manager for NODE. Js) and will be installed on your computer when you install Node.js. 
 * Clone the repository
 * Install dependencies using:
@@ -24,6 +48,7 @@ You can find the modules installed in package.json -> dependencies. When running
 
 
 ## Instructions
+
 * In order to log in with the user we created please enter the following:\
 **Username: Mor Siman Tov**\
 **Password: 1234567u**
