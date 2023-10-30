@@ -6,10 +6,10 @@
 
 ## About
 
-Welcome to our chat app! 
+## Welcome to our chat app! 
 
-We created a Web app for chatting Using nodeJS, JavaScript, React, HTML and CSS.\
-The project has a Registration screen, a Login screen and a Chat screen.\
+We created a web app for chatting Using nodeJS, JavaScript, React, HTML and CSS.\
+The project has a Registration screen, a Login screen and a Chat screen.
 
 **The project uses react-router and react-bootstrap packages.**
 
