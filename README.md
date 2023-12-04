@@ -8,8 +8,10 @@
 
 ## Welcome to our chat app! 
 
-We created a web app for chatting Using nodeJS, JavaScript, React, HTML and CSS.\
-The project has a Registration screen, a Login screen and a Chat screen.
+We created a web app for chatting using NodeJS, JavaScript, React, HTML and CSS.\
+The project has a Registration page, a Login page and a Chat page.
+
+Note: This project uses a static database. For the chat web app connected to an API service (using MariaDB database): https://github.com/morsimantov/Chat-App-Web-API
 
 **The project uses react-router and react-bootstrap packages.**
 
