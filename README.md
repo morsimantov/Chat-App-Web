@@ -57,10 +57,10 @@ Or upload a video:
 * Running the program leads to the Login screen (run by opening the terminal and then ```npm start```)
 * If not already registered, by pressing the "Click here" button you will be navigated to the Registration screen.
 * By entering a correct registered (and for now hard coded) username and password, you will be able to log in.\
-  Onced logged in you will be navigated to the Chat screen.
+  Once logged in you will be navigated to the Chat screen.
 * When in the chat screen, the contacts of current user are shown on the left,\
   and by clicking on any one of them, chat message history is shown.
-* **The user we created (by the username "Mor Siman Tov") has 6 contacts, 5 are shown when entering the Chat screen and have exisiting chats containing messages of type text, image, video and audio. There is another contact with the username "Emma Watson", that can be added by clicking the "add" button on the top right of the chat screen.**  
+* **The user we created (by the username "Mor Siman Tov") has 6 contacts, 5 are shown when entering the Chat screen and have existing chats containing messages of type text, image, video and audio. There is another contact with the username "Emma Watson", that can be added by clicking the "add" button on the top right of the chat screen.**  
 * Sending a new message:
   * Sending a new text message is done by typing and clicking the send button or by pressing Enter
   * Sending a new voice message is done by clicking the link logo and then -\
